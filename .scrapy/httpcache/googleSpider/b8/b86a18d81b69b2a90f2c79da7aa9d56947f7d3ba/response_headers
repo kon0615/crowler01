@@ -1,0 +1,16 @@
+Content-Type: text/plain; charset=UTF-8
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0
+Last-Modified: Tue, 09 Jul 2024 06:24:24 GMT
+Etag: W/"63a-190962a29c0"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Fri, 12 Jul 2024 15:32:35 GMT
+Server: nghttpx
+Permissions-Policy: unload=()
+Permissions-Policy: ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform-version=*, ch-ua-arch=*
+Accept-Ch: Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Arch
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+Age: 0

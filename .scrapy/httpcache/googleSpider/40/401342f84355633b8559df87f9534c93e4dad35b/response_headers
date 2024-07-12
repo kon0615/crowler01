@@ -1,0 +1,14 @@
+Content-Length: 15
+Server: nginx
+Date: Fri, 12 Jul 2024 15:12:28 GMT
+Content-Type: text/plain; charset=UTF-8
+X-Xss-Protection: 1; mode=block
+Accept-Ranges: none
+Cache-Control: public, max-age=3600
+Last-Modified: Wed, 10 Jul 2024 02:36:42 GMT
+Etag: W/"f-1909a800e90"
+Vary: Accept-Encoding
+Age: 0
+Accept-Ch: Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Arch
+Permissions-Policy: ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform-version=*, ch-ua-arch=*
+Permissions-Policy: unload=()

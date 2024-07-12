@@ -1,0 +1,15 @@
+Content-Length: 90
+Server: nginx
+Date: Fri, 12 Jul 2024 15:12:32 GMT
+Content-Type: text/html; charset=utf-8
+X-Xss-Protection: 1; mode=block
+Cache-Control: private, no-cache, must-revalidate
+Expires: -1
+Location: https://www.yahoo.co.jp
+Vary: Accept, Accept-Encoding
+Traceresponse: 00-afbc0335d57659d56b7f39ecfda810cc-9a7a299be06713ef-01
+X-Dt-Tracestate: 945f54dd-87dd099b@dt
+Age: 0
+Accept-Ch: Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Arch
+Permissions-Policy: ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform-version=*, ch-ua-arch=*
+Permissions-Policy: unload=()

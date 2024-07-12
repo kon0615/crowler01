@@ -1,0 +1,14 @@
+User-agent: proximic
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+# 2020-10-19
+User-agent: bingbot
+Crawl-delay: 5
+Disallow: /themes/*/posts/
+
+# LINE
+User-agent: Linespider
+Disallow: /themes/*/posts/

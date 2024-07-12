@@ -1,0 +1,19 @@
+Server: nginx
+Date: Fri, 12 Jul 2024 15:12:35 GMT
+Content-Type: text/html; charset=UTF-8
+X-Xss-Protection: 1; mode=block
+Set-Cookie: B=egginf1j92hv3&b=3&s=cu; expires=Mon, 13-Jul-2026 15:12:35 GMT; path=/; domain=.yahoo.co.jp; Secure
+Set-Cookie: XB=egginf1j92hv3&b=3&s=cu; expires=Mon, 13-Jul-2026 15:12:35 GMT; path=/; domain=.yahoo.co.jp; secure; samesite=none
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: -1
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: none
+Content-Encoding: gzip
+Traceresponse: 00-65316523fff4807fa2bb51710c43759c-ca8a4a1d395ad306-01
+X-Dt-Tracestate: 945f54dd-87dd099b@dt
+Age: 0
+Accept-Ch: Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Arch
+Permissions-Policy: ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform-version=*, ch-ua-arch=*
+Permissions-Policy: unload=()
